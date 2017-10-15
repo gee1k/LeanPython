@@ -3,7 +3,7 @@
 
 __author__ = 'Svend'
 
-#Integer
+# Integer
 a = 1
 print(a)
 
@@ -18,3 +18,4 @@ print(Answer)
 # Float
 f = 3.14159
 print(f)
+
